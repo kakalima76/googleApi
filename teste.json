@@ -1,0 +1,25 @@
+SpreadsheetWorksheet {
+    url: 'https://spreadsheets.google.com/feeds/worksheets/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/od6',
+    id: 'od6',
+    title: 'Estudos',
+    rowCount: 1007,
+    colCount: 22,
+    _links: [
+      'http://schemas.google.com/spreadsheets/2006#cellsfeed': 'https://spreadsheets.google.com/feeds/cells/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/od6/private/full',
+      'http://schemas.google.com/visualization/2008#visualizationApi': 'https://docs.google.com/spreadsheets/d/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/gviz/tq?gid=0',
+      'http://schemas.google.com/spreadsheets/2006#exportcsv': 'https://docs.google.com/spreadsheets/d/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/export?gid=0&format=csv',
+      self: 'https://spreadsheets.google.com/feeds/worksheets/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/private/full/od6',
+      edit: 'https://spreadsheets.google.com/feeds/worksheets/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/private/full/od6',
+      cells: 'https://spreadsheets.google.com/feeds/cells/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/od6/private/full',
+      bulkcells: 'https://spreadsheets.google.com/feeds/cells/1crH8vAK_E8wK7Vt8IDy8xN772HENebuXZoBicwmT_ew/od6/private/full/batch'
+    ],
+    resize: [Function: _setInfo],
+    setTitle: [Function],
+    clear: [Function],
+    getRows: [Function],
+    getCells: [Function],
+    addRow: [Function],
+    bulkUpdateCells: [Function],
+    del: [Function],
+    setHeaderRow: [Function]
+  }
